@@ -1,16 +1,11 @@
 # Welcome to QuantX
 
-This is a markdown file that can be used to document your project.
+We at QuantX is building the future of Trading by Incorporating and AI Agentic Framework to build Quant & Algorithmic Trading Platform for Wealth Creation
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- User will be able to analyze stocks 
+- User will be able to 
 
-## Getting Started
-1. Step 1
-2. Step 2
-3. Step 3
 
 ## Documentation
 For more information, please refer to the documentation.
